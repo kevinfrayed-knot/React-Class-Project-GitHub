@@ -4,7 +4,7 @@ function About() {
     return (
       <>
           <p></p>
-          <h1>About page/component</h1>
+          <h1>About This App</h1>
       </>
     );
 }

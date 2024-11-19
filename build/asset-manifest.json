@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Class-Project-GitHub/static/css/main.f855e6bc.css",
+    "main.js": "/React-Class-Project-GitHub/static/js/main.6754e6fc.js",
+    "static/js/453.cd220562.chunk.js": "/React-Class-Project-GitHub/static/js/453.cd220562.chunk.js",
+    "index.html": "/React-Class-Project-GitHub/index.html",
+    "main.f855e6bc.css.map": "/React-Class-Project-GitHub/static/css/main.f855e6bc.css.map",
+    "main.6754e6fc.js.map": "/React-Class-Project-GitHub/static/js/main.6754e6fc.js.map",
+    "453.cd220562.chunk.js.map": "/React-Class-Project-GitHub/static/js/453.cd220562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6754e6fc.js"
+  ]
+}

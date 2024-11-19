@@ -99,7 +99,7 @@ function ContactUs2() {
     return (
       <>
           <p></p>
-          <p>Contact Us 2 page/component - 1.0.3</p>
+          <h1>Contact Us - 1.0.0</h1>
           <p>{msg}</p>
           <div className="output"></div>
           <p></p>
